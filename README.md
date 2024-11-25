@@ -1,6 +1,6 @@
 # About me 👨🏻‍💻
 
-I am an computer science engineering student at National Institute of Applied Sciences of Toulouse (INSA Toulouse) 🇫🇷.
+Computer science engineering student at National Institute of Applied Sciences of Toulouse (INSA Toulouse) 🇫🇷.
 
 I am interested in web and software development 💻, and in cybersecurity 🔒.
 
